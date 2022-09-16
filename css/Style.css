@@ -1,0 +1,147 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font: Helvetica;
+}
+/* Awal Navbar */
+.col {
+  background-color: light;
+  padding: 50px 115px;
+}
+
+.collapse {
+  padding: 0%;
+}
+
+h1 {
+  font: bold;
+  font-size: 225%;
+}
+/* Awal Navbar */
+
+/* Banner */
+.col-6 {
+  padding: 10% 0% 0% 5%;
+}
+
+h2 {
+  font-size: 150%;
+  font-weight: bold;
+}
+
+.col-4 {
+  padding: 100px 0px 0px 45%;
+  margin: 0%;
+}
+
+p {
+  font-size: 14px;
+  padding-right: 16%;
+}
+/* Banner */
+
+/* Best Rental Card */
+.text {
+  padding: 10% 0% 0% 10.9%;
+}
+
+.col-lg-3 {
+  padding: 0% 0% 5% 2.7%;
+}
+.card-text {
+  font-size: 14px;
+  padding: 0% 0% 0% 0%;
+  margin-bottom: -0.3%;
+}
+/* Best Rental Card */
+
+/* Why Us */
+.card {
+  padding: 4% 0% 4% 0%;
+  border-radius: 13px;
+}
+.head {
+  padding: 0% 0% 1% 0%;
+}
+
+.note {
+  padding: 0% 23% 5% 23%;
+}
+/* Why Us */
+
+/* Accordion Frequenly */
+.accordion {
+  padding: 2% 0% 0% 0%;
+}
+.rounded {
+  padding: 0% 0% 0% 0%;
+}
+/* Accordion Frequenly */
+.slider {
+  margin-bottom: 30px;
+}
+/* external css: flickity.css */
+
+/* Responsive */
+
+/* Responsive */
+
+.banner {
+  padding: 5% 0% 5% 0%;
+}
+
+/* Carousel */
+.owl-theme .owl-dots .owl-dot {
+  display: none;
+}
+
+.owl-carousel .owl-nav:hover button.owl-next:hover,
+.owl-carousel .owl-nav:hover button.owl-prev:hover,
+.owl-carousel .owl-nav:hover button.owl-dot {
+  background-color: green;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  border: 1px solid black;
+}
+
+.owl-carousel .owl-nav button.owl-next,
+.owl-carousel .owl-nav button.owl-prev,
+.owl-carousel .owl-nav button.owl-dot {
+  background: none;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  border: 1px solid black;
+}
+
+.owl-nav .owl-prev {
+  margin-left: 47.5%;
+  font-size: 30px;
+  z-index: 1;
+}
+.owl-nav .owl-next {
+  top: calc(50% - 25px);
+  right: 0;
+  opacity: 1;
+  font-size: 30px;
+}
+.owl-dots {
+  text-align: center;
+}
+.owl-dots .owl-dot {
+  height: 10px;
+  width: 10px;
+  border-radius: 10px;
+  margin-left: 3px;
+  margin-right: 3px;
+  outline: none;
+}
+.owl-dots .owl-dot.active {
+  background: #f44336 !important;
+}
+/* Carousel */
+.icon {
+  margin: -5% 0% 0% 0%;
+}
