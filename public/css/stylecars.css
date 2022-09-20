@@ -1,0 +1,59 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font: Helvetica;
+}
+/* Awal Navbar */
+.col {
+  background-color: light;
+  padding: 5% 5% 0% 8.5%;
+}
+
+.collapse {
+  padding: 0%;
+}
+
+h1 {
+  font: bold;
+  font-size: 225%;
+}
+/* Awal Navbar */
+
+/* Input Data */
+
+.info-panel {
+  position: fixed;
+  width: 65%;
+  margin-top: -35px;
+  background-color: white;
+  padding: 1% 1% 1% 1%;
+  box-shadow: 0 3px 20px rgba(0, 0, 0, 0.5);
+}
+/* Input Data */
+
+/* Banner */
+.col-6 {
+  padding: 10% 0% 0% 5%;
+}
+
+h2 {
+  font-size: 150%;
+  font-weight: bold;
+}
+
+.col-4 {
+  padding: 100px 0px 0px 45%;
+  margin: 0%;
+}
+
+p {
+  font-size: 14px;
+  padding-right: 16%;
+}
+/* Banner */
+
+/* Carousel */
+.icon {
+  margin: -5% 0% 0% 0%;
+}
