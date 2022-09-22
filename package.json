@@ -8,5 +8,17 @@
   "private": false,
   "scripts": {
     "start": "node server/index.js"
-  }
+  },
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JafarAli360/challenge-04.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JafarAli360/challenge-04/issues"
+  },
+  "homepage": "https://github.com/JafarAli360/challenge-04#readme"
 }

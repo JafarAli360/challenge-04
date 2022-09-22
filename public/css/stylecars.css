@@ -21,15 +21,11 @@ h1 {
 /* Awal Navbar */
 
 /* Input Data */
-
-.info-panel {
-  position: fixed;
-  width: 65%;
-  margin-top: -35px;
-  background-color: white;
-  padding: 1% 1% 1% 1%;
-  box-shadow: 0 3px 20px rgba(0, 0, 0, 0.5);
+.card {
+  margin: -50px 15% 0% 15%;
+  width: 72%;
 }
+
 /* Input Data */
 
 /* Banner */
