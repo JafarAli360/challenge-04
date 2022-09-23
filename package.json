@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Project HTTP Server dan DOM",
   "main": "server/index.js",
-  "author": "Fikri Rahmat Nurhidayat <fnurhidayat@binar.co.id>",
+  "author": "Ahmad Ja'far Ali <ahmad.19058@mhs.unesa.ac.id>",
   "license": "MIT",
   "private": false,
   "scripts": {
-    "start": "node server/index.js"
+    "start": "nodemon server/index.js"
   },
   "dependencies": {
     "nodemon": "^2.0.20"
