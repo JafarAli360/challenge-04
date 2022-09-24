@@ -3,22 +3,15 @@
   "version": "1.0.0",
   "description": "Project HTTP Server dan DOM",
   "main": "server/index.js",
-  "author": "Ahmad Ja'far Ali <ahmad.19058@mhs.unesa.ac.id>",
+  "author": "Fikri Rahmat Nurhidayat <fnurhidayat@binar.co.id>",
   "license": "MIT",
   "private": false,
   "scripts": {
-    "start": "nodemon server/index.js"
+    "live": "nodemon server/index.js",
+    "start": "node server/index.js"
   },
   "dependencies": {
+    "load-svg-file": "^1.0.8",
     "nodemon": "^2.0.20"
-  },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/JafarAli360/challenge-04.git"
-  },
-  "bugs": {
-    "url": "https://github.com/JafarAli360/challenge-04/issues"
-  },
-  "homepage": "https://github.com/JafarAli360/challenge-04#readme"
+  }
 }
